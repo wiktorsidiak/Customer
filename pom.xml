@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.inteca</groupId>
-	<artifactId>Klient</artifactId>
+	<artifactId>Customer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Klient</name>
+	<name>Customer</name>
 	<description>Solution for Inteca</description>
 	<properties>
 		<java.version>11</java.version>
